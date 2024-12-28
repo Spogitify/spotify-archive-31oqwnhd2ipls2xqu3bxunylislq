@@ -11,9 +11,9 @@
     "id": "3HwtdmLdI0jlfbZ5eHObcN",
     "name": "My Playlist #3",
     "owner": "Spogitify",
-    "snapshot_id": "AAAAAWTsqjJrFbVcGJU17B+5Z0J25kFc",
-    "num_songs": 0,
-    "total_length_seconds": 0
+    "snapshot_id": "AAAAAjrpcs/4AYeKoVFFxrmTH+4lnbdA",
+    "num_songs": 1,
+    "total_length_seconds": 179
   },
   {
     "id": "48wiORMs0gsfEPhV5H5SyS",
@@ -22,5 +22,13 @@
     "snapshot_id": "AAAABOqJEDbV4zBRGLZvN820+rFIeZ1E",
     "num_songs": 1,
     "total_length_seconds": 283
+  },
+  {
+    "id": "7xpNhsiKaGrGqYWmT1GRMl",
+    "name": "My Playlist #4",
+    "owner": "Spogitify",
+    "snapshot_id": "AAAAAU+cc6Rm3xQW/qOlI6JNaqwfT6bn",
+    "num_songs": 0,
+    "total_length_seconds": 0
   }
 ]
